@@ -1,7 +1,7 @@
 <div align = "center">
 
   <figure>
-    <img src= "https://raw.githubusercontent.com/incubyte/.github/main/images/icon.png" alt="Incubyte logo" style="width:10%">
+    <img src= "https://raw.githubusercontent.com/incubyte/.github/main/profile/logo.png" alt="Incubyte logo" style="width:10%">
   </figure>
   <h1><a href="https://www.incubyte.co/">Incubyte</a></h1>
   <h3>We Craft Digtal Products</h3>
