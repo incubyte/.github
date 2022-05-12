@@ -8,7 +8,7 @@
 
   We are a remote-first company that helps its clients craft future-ready software products that can adapt to changing business needs.
   
-  We focus on delivering quality software <a href="https://www.incubyte.co/software-development">development</a> and <a href="https://www.incubyte.co/enhance-and-modernize">modernization</a>, all with true <a href="https://www.incubyte.co/inspiration">craftsmanhip</a>.
+  We focus on quality software <a href="https://www.incubyte.co/software-development">development</a> and <a href="https://www.incubyte.co/enhance-and-modernize">modernization</a>, all with true <a href="https://www.incubyte.co/inspiration">craftsmanhip</a>.
     
   Did we mention that we also have a <a href="https://blog.incubyte.co/">blog</a> where we share our learnings.
   
